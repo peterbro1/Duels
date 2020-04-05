@@ -1,0 +1,11 @@
+name: PurpleDuels
+main: me.gmx.purpleduels.PurpleDuels
+version: ${project.version}
+depend: [WorldGuard]
+softdepend: [GangsPlus]
+author: GMX
+commands:
+  duels:
+    aliases: [duel,pduel,pduels]
+  friendlyduel:
+    aliases: [friendlyduels]
